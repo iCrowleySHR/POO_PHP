@@ -15,7 +15,7 @@ class Pessoa{
 $gualda = new Pessoa(); 
 
 // Atribuimos um valor para a variavel da clase
-$gualda->nome = "Gustavo Dos Santos Gualda"; 
+$gualda->nome = "Gustavo"; 
 
 // Atribuimos um valor para a variavel da clase
 $gualda->idade = 17;
